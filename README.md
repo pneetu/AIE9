@@ -30,8 +30,8 @@ To become **[AI-Makerspace Certified](https://aimakerspace.io/certification/)**,
 
 1. Complete all required project assignments, including weekly videos (Weeks 1-5, 7-8)
 2. Complete the Certification Challenge, including a Demo video (Week 6)
-3. Compete with other cohort members with a live pitch and Demd of your project during Demo Day Semifinals (November 11, 2025)
-4. If you are selected for Demo Day by your peers, you must present live on November 13, 2025. Otherwise, you will be required to submit your own YouTube-worthy Demo video
+3. Compete with other cohort members with a live pitch and Demd of your project during Demo Day Semifinals
+4. If you are selected for Demo Day by your peers, you must present live. Otherwise, you will be required to submit your own YouTube-worthy Demo video
 5. Receive at least an 85% total grade in the course.
 
 If you do not complete the above requirements or maintain a high-quality standard of work, you may still be eligible for a *certificate of completion* if you miss no more than 2 live sessions.
